@@ -30,7 +30,7 @@
 <body style="background-position: center center; background-size:cover; background-image: url('http://localhost:56789/Background.jpg'); background-repeat: no-repeat; background-attachment: fixed; position: relative;">
     <form id="form1" runat="server">
         <div class="auto-style2">
-            <strong><span class="auto-style3">歡迎來到咪毛tea time(測試github)</span></strong></div>
+            <strong><span class="auto-style3">歡迎來到咪毛tea time</span></strong></div>
         <table class="auto-style1" style="position: relative">
             <tr>
                 <td class="auto-style7"></td>
